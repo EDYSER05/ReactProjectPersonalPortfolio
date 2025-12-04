@@ -10,6 +10,7 @@ const imagenes = {
   "Proyecto3": Proyecto3,
   "Proyecto4": Proyecto4,
 };
+
 export default function ProyectosRealizados() {
   return (
     <section className="w-full py-10 flex flex-col items-center" id="proyectosRealizados">
