@@ -2,21 +2,21 @@
   {
     "titulo": "Netflix con Map",
     "descripcion": "Aplicación que mapea cada una de estas series o miniseries localizadas en un json e implementa tanto la imagen como los textos de cada una.",
-    "imagen": "./src/assets/img/Proyecto1.png"
+    "imagen": "/src/assets/img/Proyecto1.png"
   },
   {
     "titulo": "Blog de viajes con Map",
     "descripcion": "Aplicaciones que mapea los diferentes blogs leidos desde un json y los añade a la web",
-    "imagen": "./src/assets/img/Proyecto2.png"
+    "imagen": "/src/assets/img/Proyecto2.png"
   },
   {
     "titulo": "Instagram con Immer",
     "descripcion": "Publicación de instagram en la que el immer es capaz de interactuar con el botón de likes y el botón de guardado",
-    "imagen": "./src/assets/img/Proyecto3.png"
+    "imagen": "/src/assets/img/Proyecto3.png"
   },
   {
     "titulo": "Notes con Use State y Use Effect",
     "descripcion": "Notas interactivas en las que puedes añadir, eliminar y filtrar las notas con use state y use effect",
-    "imagen": "./src/assets/img/Proyecto4.png"
+    "imagen": "/src/assets/img/Proyecto4.png"
   }
 ]
